@@ -1,0 +1,33 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "fullname": "Adminton",
+    "_id": "4xI7h",
+    "isAdmin": true
+  },
+  {
+    "username": "tomer",
+    "password": "1234",
+    "fullname": "Tomer",
+    "_id": "RM9PH"
+  },
+  {
+    "username": "shuki",
+    "password": "1234",
+    "fullname": "Shuki Kan",
+    "_id": "NQ5zH"
+  },
+  {
+    "fullname": "Puki Mala",
+    "username": "puki",
+    "password": "1234",
+    "_id": "Vv58l"
+  },
+  {
+    "fullname": "Muki Ga",
+    "username": "muki",
+    "password": "secret",
+    "_id": "zQuW7"
+  }
+]
