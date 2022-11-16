@@ -1,6 +1,6 @@
 const fs = require('fs')
 const Cryptr = require('cryptr')
-const cryptr = new Cryptr('secret-special-key')
+const cryptr = new Cryptr(process.env['secret-special-key'])
 
 const gUsers = require('../data/user.json')
 
